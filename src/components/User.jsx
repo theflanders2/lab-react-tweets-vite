@@ -1,9 +1,9 @@
 function User({ userName, userHandle }) {
     return (
-    <span className="user">
-        <span className="name">{userName}</span>
-        <span className="handle">{userHandle}</span>
-    </span>
+        <span className="user">
+            <span className="name">{userName}</span>
+            <span className="handle">{userHandle}</span>
+        </span>
     );
   }
   

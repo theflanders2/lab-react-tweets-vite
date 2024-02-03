@@ -1,6 +1,6 @@
 function Message({ userTweetText }) {
     return (
-    <p className="message"> {userTweetText} </p>
+        <p className="message"> {userTweetText} </p>
     );
   }
   
