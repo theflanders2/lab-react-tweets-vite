@@ -1,6 +1,6 @@
-function Timestamp({ postTime }) {
+function Timestamp({ tweetTime }) {
     return (
-    <span className="timestamp">{postTime}</span>
+    <span className="timestamp">{tweetTime}</span>
     );
   }
   
